@@ -1,7 +1,7 @@
 
-# My Portfolio
+# Employee List Generator
 
-Portfolio project showcasing my personal projects.
+Generates a list of random employees, fetching from a public API.
 
 
 ## Screenshots
